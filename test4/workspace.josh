@@ -1,3 +1,4 @@
 libs = :[
-  test3=:/test3
+  test3=:/test3,
+  :workspace=test3:/libs
 ]
