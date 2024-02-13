@@ -1,4 +1,1 @@
-libs = :[
-  :/test3,
-  :workspace=test3:/libs
-]
+libs = :/test1:prefix=test1
